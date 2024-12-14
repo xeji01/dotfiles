@@ -1,5 +1,0 @@
-[plugin]
-deps = [{ use = "Ape/mediainfo", rev = "c69314e" }, { use = "yazi-rs/plugins:max-preview", rev = "a53d544" }]
-
-[flavor]
-deps = []
